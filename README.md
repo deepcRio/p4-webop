@@ -1,4 +1,4 @@
-### Carmen Tedesco Project 4 - optimisation project
+### Carmen Tedesco Project 4 - optimization project
 
 index.html fixes:
 1. CSS needed to render the above the fold content including header
