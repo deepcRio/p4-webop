@@ -20,6 +20,8 @@ views/js/main.js fixes:
 5. Minified main.js
 
 Instructions to run the application
-1. To run the application, start by navigating to github link
+1. To run the application, start by navigating to github link:  
+    http://deepcrio.github.io/
+    to run pizza.html -->  http://deepcrio.github.io/views/pizza.html
 2. The Index.html files point to production files however, source code is also provided. Production files are noted with a "-min" extension.
 3. Double click index.html to run the application
